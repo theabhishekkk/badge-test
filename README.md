@@ -9,3 +9,4 @@ Silver 6
 Silver 7
 Silver 8
 Silver 9
+Silver 10
