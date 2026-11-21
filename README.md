@@ -20,3 +20,4 @@ Silver 3
 Silver 4
 Silver 5
 Silver 6
+Silver 7
