@@ -24,3 +24,4 @@ Silver 7
 Silver 8
 Silver 9
 Silver 10
+Silver 11
